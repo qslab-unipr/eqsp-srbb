@@ -7,3 +7,6 @@ This repository documents the transition to the *exact* version of **QSP-SRBB**,
 
 ## Requirements
 The project has been implemented using *Python* 3.10 and *PennyLane* 0.40. The implementation also makes use of the *numpy* and *matplotlib* modules.
+
+## License
+This project is licensed under the MIT License – see the LICENSE file for details.
